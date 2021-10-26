@@ -41,6 +41,6 @@ public class DrawFigure {
 		circle.setColor(Color.RED);
 		EZ.addCircle(200, 200, 200, 200, Color.RED,  false);
 		
-		EZ.setBackgroundColor(Color.PINK);
+		EZ.setBackgroundColor(Color.YELLOW);
 	}
 }
